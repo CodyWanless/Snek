@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Snek", "Snek\Snek.csproj", "{8D028701-E660-4924-8E0F-EAF9D5D4918D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CFAC5630-10AC-4989-B657-75980363DDA1}"
+	ProjectSection(SolutionItems) = preProject
+		..\.editorconfig = ..\.editorconfig
+		..\.gitignore = ..\.gitignore
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Snek.Game", "Snek.Game\Snek.Game.csproj", "{4C86A100-E664-4AC5-9009-E405523E1069}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D028701-E660-4924-8E0F-EAF9D5D4918D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D028701-E660-4924-8E0F-EAF9D5D4918D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D028701-E660-4924-8E0F-EAF9D5D4918D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D028701-E660-4924-8E0F-EAF9D5D4918D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C86A100-E664-4AC5-9009-E405523E1069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C86A100-E664-4AC5-9009-E405523E1069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C86A100-E664-4AC5-9009-E405523E1069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C86A100-E664-4AC5-9009-E405523E1069}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E97EFEFB-EFFC-44E4-9395-D9DEFA52030C}
+	EndGlobalSection
+EndGlobal
